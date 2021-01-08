@@ -227,7 +227,7 @@ https://raw.githubusercontent.com/tg12/pihole-phishtank-list/master/full_grav_li
 
 https://hosts.oisd.nl/
 
-https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts_without_controversies.txt
+https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt
 
 Blocklist list section complete. 110 entries.
 

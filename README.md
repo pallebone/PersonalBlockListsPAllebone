@@ -183,6 +183,46 @@ https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
 
 https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_all.list
 
+https://gitlab.com/The_Quantum_Alpha/the-quantum-ad-list/-/raw/master/For%20hosts%20file/The_Quantum_Ad-List.txt
 
+https://blocklist.cyberthreatcoalition.org/vetted/domain.txt
 
-To be continued... after checking lists up to date.
+https://raw.githubusercontent.com/sk-cat/fluffy-blocklist/main/domains
+
+https://blocklistproject.github.io/Lists/abuse.txt
+
+https://blocklistproject.github.io/Lists/ads.txt
+
+https://blocklistproject.github.io/Lists/crypto.txt
+
+https://blocklistproject.github.io/Lists/drugs.txt
+
+https://blocklistproject.github.io/Lists/fraud.txt
+
+https://blocklistproject.github.io/Lists/gambling.txt
+
+https://blocklistproject.github.io/Lists/malware.txt
+
+https://blocklistproject.github.io/Lists/phishing.txt
+
+https://blocklistproject.github.io/Lists/porn.txt
+
+https://blocklistproject.github.io/Lists/ransomware.txt
+
+https://blocklistproject.github.io/Lists/scam.txt
+
+https://blocklistproject.github.io/Lists/tiktok.txt
+
+https://blocklistproject.github.io/Lists/tracking.txt
+
+https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/youtubelist.txt
+
+https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/crowed_list.txt
+
+https://github.com/badmojr/1Hosts/blob/master/Pro/xtra/domains.txt
+
+https://raw.githubusercontent.com/tg12/pihole-phishtank-list/master/full_grav_list/gravity.txt
+
+Blacklist section complete.
+
+Whitelist and other stuff etc to be continued as I get time...

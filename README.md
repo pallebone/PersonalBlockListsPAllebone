@@ -51,4 +51,52 @@ https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-hosts.txt
 
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
 
+https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn/hosts
+
+https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
+
+https://block.energized.pro/extensions/porn-lite/formats/hosts
+
+https://block.energized.pro/blu/formats/hosts
+
+https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext
+
+https://block.energized.pro/unified/formats/hosts
+
+https://raw.githubusercontent.com/oneoffdallas/dohservers/master/list.txt
+
+https://raw.githubusercontent.com/Sekhan/TheGreatWall/master/TheGreatWall.txt   (Last update June 2020... new list needed if replacement can be found).
+
+https://block.energized.pro/spark/formats/hosts
+
+https://block.energized.pro/bluGo/formats/hosts
+
+https://block.energized.pro/basic/formats/hosts
+
+https://block.energized.pro/porn/formats/hosts
+
+https://block.energized.pro/ultimate/formats/hosts
+
+https://block.energized.pro/extensions/xtreme/formats/hosts
+
+https://block.energized.pro/extensions/regional/formats/hosts
+
+https://raw.githubusercontent.com/llacb47/mischosts/master/social/tiktok-block
+
+https://raw.githubusercontent.com/llacb47/mischosts/master/tiktok-hosts
+
+https://justdomains.github.io/blocklists/lists/easylist-justdomains.txt
+
+https://justdomains.github.io/blocklists/lists/easyprivacy-justdomains.txt
+
+https://justdomains.github.io/blocklists/lists/adguarddns-justdomains.txt
+
+https://justdomains.github.io/blocklists/lists/nocoin-justdomains.txt
+
+https://github.com/marcusminus/Orthrus-BlockList/raw/master/hosts.txt
+
+https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
+
+
+
 To be continued... after checking lists up to date.

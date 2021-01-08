@@ -223,6 +223,6 @@ https://github.com/badmojr/1Hosts/blob/master/Pro/xtra/domains.txt
 
 https://raw.githubusercontent.com/tg12/pihole-phishtank-list/master/full_grav_list/gravity.txt
 
-Blacklist section complete. 108 entries.
+Blocklist list section complete. 108 entries.
 
 ## Whitelist and other stuff etc to be continued as I get time...

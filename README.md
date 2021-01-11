@@ -231,4 +231,8 @@ https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt
 
 Blocklist list section complete. 110 entries.
 
-## Allowlist and other stuff etc to be continued as I get time...
+##Allowlist:
+
+Please open AllowlistOptional.txt in files above and add these entries to pihole if appropriate.
+
+##other stuff etc to be continued as I get time...

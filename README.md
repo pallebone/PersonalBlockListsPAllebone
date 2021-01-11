@@ -229,7 +229,9 @@ https://hosts.oisd.nl/
 
 https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt
 
-Blocklist list section complete. 110 entries.
+https://raw.githubusercontent.com/arapurayil/ABL/master/lists/general/blocked_domains.txt
+
+Blocklist list section complete. 111 entries.
 
 ## Allowlist:
 

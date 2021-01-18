@@ -249,7 +249,7 @@ Copy this to clipboard.
 
 On pihole run command 'pihole -w -nr PastedListOfDomainsFromClipboard'
 
-PastedListOfDomainsFromClipboard is the list you copied to your clipboard. Whitelist now has all entries added.  
+PastedListOfDomainsFromClipboard is the list you copied to your clipboard. Allowlist now has all entries added.  
  
 
 ## other stuff etc to be continued as I get time...

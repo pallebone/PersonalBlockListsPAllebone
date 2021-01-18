@@ -351,8 +351,6 @@ webmdcom.tt.omtrdc.net
 (\.|^)apple\.com$
 open.simplii.com
 pages02.net
-(\.|^)1\.1\.1\.1$
-(\.|^)cloudflare-dns\.com$
 boards.greenhouse.io
 cdn-settings.segment.com
 data.cnn.com

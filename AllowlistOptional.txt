@@ -557,11 +557,6 @@ connect.tapjoy.com
 rpc.tapjoy.com
 placements.tapjoy.com
 content.tapjoy.com
-beeg.com
-api.beeg.com
-img.beeg.com
-vp.beeg.com
-video.beeg.com
 bugs.launchpad.net
 launchpadlibrarian.net
 reminders-pa.googleapis.com
@@ -608,7 +603,6 @@ s07.hostcontent.live
 push.api.bbci.co.uk
 s05.hostcontent.live
 thehill.com
-thehotgirlproject.tumblr.com
 www.dialogtech.com
 coinmarketcap.com
 s2.coinmarketcap.com

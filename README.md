@@ -241,13 +241,13 @@ How to add all in addition to what you already have:
 
 Copy list to notepad++
 
-Remove carridge returns and replace with a space by finding '\r\n' (do not include ' in search) and replacing wit a single space.
+Remove carridge returns and replace with a space by finding '\r\n' (do not include ' in search) and replacing with a single space.
 
 Notepad++ now has a list of domains with a space between each entry.
 
 Copy this to clipboard. 
 
-On pihole run command 'pihole -w -nr <pasted list of domains>'
+On pihole run command 'pihole -w -nr PastedListOfDomainsFromClipboard'
 
 Whitelist now has all entries added.  
  

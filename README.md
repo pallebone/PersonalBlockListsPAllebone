@@ -236,5 +236,13 @@ Blocklist list section complete. 111 entries.
 ## Allowlist:
 
 Please open AllowlistOptional.txt in files above and add these entries to pihole if appropriate.
+How to add all in addition to what you already have:
+Copy list to notepad++
+Remove carridge returns and replace with a space by finding '\r\n' (do not include ' in search) and replacing wit a single space.
+Notepad++ now has a list of domains with a space between each entry.
+Copy this to clipboard. 
+On pihole run command 'pihole -w -nr <pasted list of domains>'
+Whitelist now has all entries added.  
+ 
 
 ## other stuff etc to be continued as I get time...

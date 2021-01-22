@@ -127,7 +127,6 @@ bid.contextweb.com
 tag.1rx.io
 sync.springserve.com
 pixel.rubiconproject.com
-sync.teads.tv
 beacons.gvt2.com
 de.tynt.com
 sync.ipredictive.com
@@ -218,7 +217,6 @@ twinrdsrv.com
 www.urbandictionary.com
 www.politifact.com
 fonts.gstatic.com
-gstaticadssl.l.google.com
 mi.oldnavy.com
 d8e0mpbc.micpn.com
 link.metronaut.app
@@ -344,7 +342,6 @@ searchnetworking.techtarget.com
 services.wikia.com
 services.fandom.com
 secure.quantserve.com
-cdn.adsafeprotected.com
 static.wikia.nocookie.net
 (\.|^)webmd\.com$
 webmdcom.tt.omtrdc.net
@@ -713,7 +710,6 @@ meta.plex.tv
 microsoftonline.com
 msftncsi.com
 my.plexapp.com
-npr-news.streaming.adswizz.com
 nine.plugins.plexapp.com
 no-ip.com
 node.plexapp.com
@@ -790,3 +786,16 @@ continuum.dds.microsoft.com
 connectivitycheck.gstatic.com
 connectivitycheck.android.com
 www.msftconnecttest.com
+traffic.megaphone.fm
+cdn.userway.org
+service.force.com
+code.jquery.com
+translate.google.com
+api.elasticemail.com
+completion.amazon.com
+unagi.amazon.ca
+msh.amazon.com
+www.windowsphoneinfo.com
+pasteboard.co
+arstechnica.com
+www.crunchbase.com,

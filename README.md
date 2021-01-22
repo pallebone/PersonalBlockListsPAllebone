@@ -255,3 +255,17 @@ PastedListOfDomainsFromClipboard is the list you copied to your clipboard. Allow
  
 
 ## other stuff etc to be continued as I get time...
+
+Setup Overview
+
+Client DNS set to PIHOLE ---> Pihole DNS set to OPNsense Firewall with relevant forwarders for domain etc configured (if using AD) ---> Opnsense DNS set to 1.1.1.2 and 1.0.0.2 (cloudflare DNS with malware blocking).
+A seperate windows DNS (AD) server is on the network that can resolve AD DNS for internal clients. This has pihole as a forwarder and itself as DNS/other AD controllers as per normal.
+
+Typical workflow will be client - pihole - relevant DNS (either ADDNS server or firewall depending on domain/rdns queried). 
+
+This setup allows normal internal DNS while also providing pihole blocking and in addition the firewall DNS is filtered for malware by cloudflare.
+
+A firewall rule only allows DNS ports 53, and 853 from 2 machines - the Pihole and itself on the LAN interface.
+
+More to follow....
+

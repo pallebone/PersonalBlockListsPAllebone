@@ -231,7 +231,9 @@ https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt
 
 https://raw.githubusercontent.com/arapurayil/ABL/master/lists/general/blocked_domains.txt
 
-Blocklist list section complete. 111 entries.
+https://raw.githubusercontent.com/llacb47/mischosts/master/blacklist
+
+Blocklist list section complete. 112 entries.
 
 ## Allowlist:
 

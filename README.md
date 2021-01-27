@@ -233,7 +233,13 @@ https://raw.githubusercontent.com/arapurayil/ABL/master/lists/general/blocked_do
 
 https://raw.githubusercontent.com/llacb47/mischosts/master/blacklist
 
-Blocklist list section complete. 112 entries.
+https://github.com/j-moriarti/pDNSf-Hosts-collection/releases/download/v1.0.0/pDNSf-hosts-part0.txt
+
+https://github.com/j-moriarti/pDNSf-Hosts-collection/releases/download/v1.0.0/pDNSf-hosts-part1.txt
+
+https://github.com/j-moriarti/pDNSf-Hosts-collection/releases/download/v1.0.0/pDNSf-hosts-part2.txt
+
+Blocklist list section complete. 115 entries.
 
 ## Allowlist:
 

@@ -260,7 +260,7 @@ On pihole run command 'pihole -w -nr PastedListOfDomainsFromClipboard'
 PastedListOfDomainsFromClipboard is the list you copied to your clipboard. Allowlist now has all entries added.  
  
 
-## other stuff etc to be continued as I get time...
+## other stuff etc to be continued as I get time...sorry I have a day job.
 
 Setup Overview
 

@@ -39,8 +39,6 @@ https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
 
 https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
 
-https://mirror.cedia.org.ec/malwaredomains/immortal_domains.txt
-
 https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt
 
 https://phishing.army/download/phishing_army_blocklist_extended.txt
@@ -67,7 +65,7 @@ https://block.energized.pro/unified/formats/hosts
 
 https://raw.githubusercontent.com/oneoffdallas/dohservers/master/list.txt
 
-https://raw.githubusercontent.com/Sekhan/TheGreatWall/master/TheGreatWall.txt   (Last update June 2020... new list needed if replacement can be found).
+https://raw.githubusercontent.com/Sekhan/TheGreatWall/master/TheGreatWall.txt (Last update June 2020... new list needed if replacement can be found).
 
 https://block.energized.pro/spark/formats/hosts
 
@@ -229,8 +227,6 @@ https://hosts.oisd.nl/
 
 https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt
 
-https://raw.githubusercontent.com/arapurayil/ABL/master/lists/general/blocked_domains.txt
-
 https://raw.githubusercontent.com/llacb47/mischosts/master/blacklist
 
 https://github.com/j-moriarti/pDNSf-Hosts-collection/releases/download/v1.0.0/pDNSf-hosts-part0.txt
@@ -239,7 +235,21 @@ https://github.com/j-moriarti/pDNSf-Hosts-collection/releases/download/v1.0.0/pD
 
 https://github.com/j-moriarti/pDNSf-Hosts-collection/releases/download/v1.0.0/pDNSf-hosts-part2.txt
 
-Blocklist list section complete. 115 entries.
+https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
+
+https://raw.githubusercontent.com/MetaMask/eth-phishing-detect/master/src/hosts.txt
+
+https://raw.githubusercontent.com/neodevpro/neodevhost/master/host
+
+https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/blacklist.txt
+
+https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/malware/domains
+
+https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/doh/domains (Possible replacement for GreatWall).
+
+https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts
+
+Blocklist list section complete. 120 entries.
 
 ## Allowlist:
 

@@ -249,7 +249,9 @@ https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/doh/dom
 
 https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts
 
-Blocklist list section complete. 120 entries.
+https://github.com/dibdot/DoH-IP-blocklists/blob/master/doh-domains.txt (Possible replacement for GreatWall).
+
+Blocklist list section complete. 121 entries.
 
 ## Allowlist:
 

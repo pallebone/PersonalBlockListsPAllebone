@@ -217,8 +217,6 @@ https://blocklistproject.github.io/Lists/tracking.txt
 
 https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/youtubelist.txt
 
-https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/crowed_list.txt
-
 https://github.com/badmojr/1Hosts/blob/master/Pro/xtra/domains.txt
 
 https://raw.githubusercontent.com/tg12/pihole-phishtank-list/master/full_grav_list/gravity.txt
@@ -251,7 +249,7 @@ https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts
 
 https://github.com/dibdot/DoH-IP-blocklists/blob/master/doh-domains.txt (Possible replacement for GreatWall).
 
-Blocklist list section complete. 121 entries.
+Blocklist list section complete. 120 entries.
 
 ## Allowlist:
 

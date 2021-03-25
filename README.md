@@ -133,8 +133,6 @@ https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spam
 
 https://someonewhocares.org/hosts/zero/hosts
 
-https://raw.githubusercontent.com/vokins/yhosts/master/hosts
-
 https://winhelp2002.mvps.org/hosts.txt
 
 https://v.firebog.net/hosts/neohostsbasic.txt
@@ -249,7 +247,7 @@ https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts
 
 https://github.com/dibdot/DoH-IP-blocklists/blob/master/doh-domains.txt (Possible replacement for GreatWall).
 
-Blocklist list section complete. 120 entries.
+Blocklist list section complete. 119 entries.
 
 ## Allowlist:
 

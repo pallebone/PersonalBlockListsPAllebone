@@ -215,7 +215,7 @@ https://blocklistproject.github.io/Lists/tracking.txt
 
 https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/youtubelist.txt
 
-https://github.com/badmojr/1Hosts/blob/master/Pro/xtra/domains.txt
+https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/xtra/domains.txt
 
 https://raw.githubusercontent.com/tg12/pihole-phishtank-list/master/full_grav_list/gravity.txt
 
@@ -245,7 +245,7 @@ https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/doh/dom
 
 https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts
 
-https://github.com/dibdot/DoH-IP-blocklists/blob/master/doh-domains.txt (Possible replacement for GreatWall).
+https://raw.githubusercontent.com/dibdot/DoH-IP-blocklists/master/doh-domains.txt (Possible replacement for GreatWall).
 
 https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hosts
 

@@ -247,7 +247,13 @@ https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts
 
 https://github.com/dibdot/DoH-IP-blocklists/blob/master/doh-domains.txt (Possible replacement for GreatWall).
 
-Blocklist list section complete. 119 entries.
+https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hosts
+
+https://raw.githubusercontent.com/ftpmorph/ftprivacy/master/blocklists/smartphone-ads-tracking.txt
+
+https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt
+
+Blocklist list section complete. 122 entries.
 
 ## Allowlist:
 

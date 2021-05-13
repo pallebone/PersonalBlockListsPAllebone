@@ -299,3 +299,14 @@ A firewall rule only allows DNS ports 53, and 853 from 2 machines - the Pihole a
 
 More to follow....
 
+
+IP Blocklists for DOH blocking (add to opnsense):
+https://raw.githubusercontent.com/dibdot/DoH-IP-blocklists/master/doh-ipv4.txt
+https://raw.githubusercontent.com/Sekhan/TheGreatWall/master/TheGreatWall_ipv4
+https://raw.githubusercontent.com/oneoffdallas/dohservers/master/iplist.txt
+https://raw.githubusercontent.com/jpgpi250/piholemanual/master/DOHipv4.txt
+https://raw.githubusercontent.com/cbuijs/accomplist/master/doh/plain.black.ip4cidr.list
+Manual added DOH IP's:
+1.1.1.1,1.0.0.1,1.1.1.2,1.0.0.2,1.1.1.3,1.0.0.3,104.17.64.4,104.17.65.4,203.107.1.4,193.161.193.99
+Manuak added DOH ranges:
+101.36.166.0/24,203.107.1.0/24

@@ -269,7 +269,7 @@ https://raw.githubusercontent.com/cbuijs/accomplist/master/deugniets/plain.black
 
 https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/domains.txt
 
-Blocklist list section complete. 131 entries.
+Blocklist list section complete. 130 entries.
 
 ## Allowlist:
 

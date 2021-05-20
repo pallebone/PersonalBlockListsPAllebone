@@ -267,8 +267,6 @@ https://raw.githubusercontent.com/cbuijs/accomplist/master/doh/plain.black.top-n
 
 https://raw.githubusercontent.com/cbuijs/accomplist/master/deugniets/plain.black.top-n.domain.list
 
-https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/domains.txt
-
 https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/domains.txt
 
 Blocklist list section complete. 131 entries.

@@ -105,8 +105,6 @@ https://raw.githubusercontent.com/notracking/hosts-blocklists/master/dnscrypt-pr
 
 https://raw.githubusercontent.com/mkb2091/blockconvert/master/output/domains.txt
 
-https://badmojr.github.io/1Hosts/Pro/domains.txt
-
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
 
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Adult
@@ -215,8 +213,6 @@ https://blocklistproject.github.io/Lists/tracking.txt
 
 https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/youtubelist.txt
 
-https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/xtra/domains.txt
-
 https://raw.githubusercontent.com/tg12/pihole-phishtank-list/master/full_grav_list/gravity.txt
 
 https://hosts.oisd.nl/
@@ -263,7 +259,19 @@ https://raw.githubusercontent.com/cbuijs/accomplist/master/deugniets/plain.black
 
 https://raw.githubusercontent.com/cbuijs/accomplist/master/malicious-dom/plain.black.domain.list
 
-Blocklist list section complete. 127 entries.
+https://raw.githubusercontent.com/cbuijs/accomplist/master/oisd/plain.black.top-n.domain.list
+
+https://raw.githubusercontent.com/cbuijs/accomplist/master/family-safe/plain.black.top-n.domain.list
+
+https://raw.githubusercontent.com/cbuijs/accomplist/master/doh/plain.black.top-n.domain.list
+
+https://raw.githubusercontent.com/cbuijs/accomplist/master/deugniets/plain.black.top-n.domain.list
+
+https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/domains.txt
+
+https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/domains.txt
+
+Blocklist list section complete. 131 entries.
 
 ## Allowlist:
 

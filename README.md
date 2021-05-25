@@ -318,8 +318,37 @@ https://raw.githubusercontent.com/oneoffdallas/dohservers/master/iplist.txt
 
 https://raw.githubusercontent.com/jpgpi250/piholemanual/master/DOHipv4.txt
 
+https://raw.githubusercontent.com/cbuijs/accomplist/master/doh/plain.black.ip4cidr.list
+
 Manual added DOH IP's:
 1.1.1.1,1.0.0.1,1.1.1.2,1.0.0.2,1.1.1.3,1.0.0.3,104.17.64.4,104.17.65.4,203.107.1.4,193.161.193.99
 
 Manuak added DOH ranges:
 101.36.166.0/24,203.107.1.0/24
+
+Unfortunatly some DOH IP's also serve other traffic (CDN or other services etc). This means you most probably will want a Allowlisting rule that allows out clients on the network to certain ip/ports that are blocked via the IP blocklists above.
+On my opnsense I have a rule for each port/service (EG: Allow out LAN NET to allowlisted IP on port 443).
+
+This is the ip/port combination I have so far:
+
+Allow out port 443: 
+151.101.66.133,
+151.101.2.133,
+151.101.130.133,
+172.67.75.103,
+104.26.2.13,
+185.199.108.153,
+185.199.109.153,
+185.199.110.153,
+185.199.111.153,
+104.26.3.13,
+151.101.194.133
+
+Allow out port 123:
+69.1.1.251,
+129.250.35.250
+
+Obviously this will allow out to these IP's in order to fix certain webpages/other services loading at the expense of potentially blocking a DOH server. Your call if you want functionality over security. 
+If you use a second (or more) layer to capture DOH (eg: sensei) then this can be done as your second layer of prevention should hopefully capture it.
+
+----End----

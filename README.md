@@ -151,8 +151,6 @@ https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts
 
 https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
 
-https://raw.githubusercontent.com/Kees1958/W3C_annual_most_used_survey_blocklist/master/TOP_EU_US_Ads_Trackers_HOST
-
 https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt
 
 https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt
@@ -271,7 +269,7 @@ https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/domains.txt
 
 https://raw.githubusercontent.com/stamparm/aux/master/maltrail-malware-domains.txt
 
-Blocklist list section complete. 131 entries.
+Blocklist list section complete. 130 entries.
 
 ## Allowlist:
 

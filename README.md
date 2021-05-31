@@ -253,8 +253,6 @@ https://raw.githubusercontent.com/cbuijs/accomplist/master/doh/plain.black.hosts
 
 https://raw.githubusercontent.com/cbuijs/accomplist/master/doh/optimized.black.domain.list
 
-https://raw.githubusercontent.com/cbuijs/accomplist/master/deugniets/plain.black.domain.list
-
 https://raw.githubusercontent.com/cbuijs/accomplist/master/malicious-dom/plain.black.domain.list
 
 https://raw.githubusercontent.com/cbuijs/accomplist/master/oisd/plain.black.top-n.domain.list
@@ -263,13 +261,11 @@ https://raw.githubusercontent.com/cbuijs/accomplist/master/family-safe/plain.bla
 
 https://raw.githubusercontent.com/cbuijs/accomplist/master/doh/plain.black.top-n.domain.list
 
-https://raw.githubusercontent.com/cbuijs/accomplist/master/deugniets/plain.black.top-n.domain.list
-
 https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/domains.txt
 
 https://raw.githubusercontent.com/stamparm/aux/master/maltrail-malware-domains.txt
 
-Blocklist list section complete. 130 entries.
+Blocklist list section complete. 128 entries.
 
 ## Allowlist:
 

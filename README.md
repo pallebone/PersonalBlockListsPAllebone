@@ -265,7 +265,11 @@ https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/domains.txt
 
 https://raw.githubusercontent.com/stamparm/aux/master/maltrail-malware-domains.txt
 
-Blocklist list section complete. 128 entries.
+https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/fake.txt
+
+https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/multi.txt
+
+Blocklist list section complete. 130 entries.
 
 ## Allowlist:
 

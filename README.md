@@ -303,7 +303,7 @@ https://raw.githubusercontent.com/mypdns/porn-records/master/submit_here/adult.m
 	
 https://raw.githubusercontent.com/mypdns/porn-records/master/submit_here/adult.mypdns.cloud/wildcard.list	
 	
-https://raw.githubusercontent.com/mypdns/porn-records/master/submit_here/adult.mypdns.cloud/wildcard.rpz-nsdname.list
+https://raw.githubusercontent.com/mypdns/porn-records/master/submit_here/adult.mypdns.cloud/wildcard.rpz-nsdname
 
 Blocklist list section complete. 148 entries.
 

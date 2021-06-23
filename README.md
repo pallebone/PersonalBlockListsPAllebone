@@ -269,7 +269,11 @@ https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/fake.txt
 
 https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/multi.txt
 
-Blocklist list section complete. 130 entries.
+https://gitlab.com/andryou/block/raw/master/senpai-strict-domains
+
+https://www.stopforumspam.com/downloads/toxic_domains_whole.txt
+
+Blocklist list section complete. 132 entries.
 
 ## Allowlist:
 

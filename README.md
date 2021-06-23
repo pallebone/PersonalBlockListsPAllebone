@@ -273,7 +273,9 @@ https://gitlab.com/andryou/block/raw/master/senpai-strict-domains
 
 https://www.stopforumspam.com/downloads/toxic_domains_whole.txt
 
-Blocklist list section complete. 132 entries.
+https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts
+
+Blocklist list section complete. 133 entries.
 
 ## Allowlist:
 

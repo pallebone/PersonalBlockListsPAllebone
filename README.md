@@ -275,7 +275,37 @@ https://www.stopforumspam.com/downloads/toxic_domains_whole.txt
 
 https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts
 
-Blocklist list section complete. 133 entries.
+https://raw.githubusercontent.com/TheAntiSocialEngineer/AntiSocial-BlockList-UK-Community/main/UK-Community.txt	
+	
+https://raw.githubusercontent.com/Clefspeare13/pornhosts/master/127.0.0.1/hosts	
+	
+https://kriskintel.com/feeds/ktip_covid_domains.txt	
+	
+https://kriskintel.com/feeds/ktip_malicious_domains.txt	
+	
+http://phishing.mailscanner.info/phishing.bad.sites.conf	
+	
+https://raw.githubusercontent.com/matomo-org/referrer-spam-list/master/spammers.txt	
+	
+https://rescure.me/covid.txt	
+	
+https://rescure.me/rescure_domain_blacklist.txt	
+	
+https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/extra.txt	
+	
+https://raw.githubusercontent.com/mypdns/porn-records/master/submit_here/adult.mypdns.cloud/domains.list	
+	
+https://raw.githubusercontent.com/mypdns/porn-records/master/submit_here/adult.mypdns.cloud/hosts.list	
+	
+https://raw.githubusercontent.com/mypdns/porn-records/master/submit_here/adult.mypdns.cloud/mobile.list	
+	
+https://raw.githubusercontent.com/mypdns/porn-records/master/submit_here/adult.mypdns.cloud/snuff.list	
+	
+https://raw.githubusercontent.com/mypdns/porn-records/master/submit_here/adult.mypdns.cloud/wildcard.list	
+	
+https://raw.githubusercontent.com/mypdns/porn-records/master/submit_here/adult.mypdns.cloud/wildcard.rpz-nsdname.list
+
+Blocklist list section complete. 148 entries.
 
 ## Allowlist:
 

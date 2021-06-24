@@ -305,7 +305,17 @@ https://raw.githubusercontent.com/mypdns/porn-records/master/submit_here/adult.m
 	
 https://raw.githubusercontent.com/mypdns/porn-records/master/submit_here/adult.mypdns.cloud/wildcard.rpz-nsdname
 
-Blocklist list section complete. 148 entries.
+https://gitlab.com/prajwal-koirala/content-blocker/-/raw/main/configs/hosts
+
+https://gitlab.com/prajwal-koirala/content-blocker/-/raw/main/configs/advertisement
+
+https://gitlab.com/prajwal-koirala/content-blocker/-/raw/main/configs/malicious
+	
+https://gitlab.com/prajwal-koirala/content-blocker/-/raw/main/configs/social-engineering
+
+https://gitlab.com/prajwal-koirala/content-blocker/-/raw/main/configs/explicit
+
+Blocklist list section complete. 153 entries.
 
 ## Allowlist:
 

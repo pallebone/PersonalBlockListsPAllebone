@@ -314,7 +314,7 @@ https://raw.githubusercontent.com/KitsapCreator/pihole-blocklists/master/malware
 https://raw.githubusercontent.com/KitsapCreator/pihole-blocklists/master/scam-spam.txt
 
 
-Blocklist list section complete. 157 entries.
+Blocklist list section complete. 152 entries.
 
 ## Allowlist:
 

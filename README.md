@@ -313,8 +313,10 @@ https://raw.githubusercontent.com/KitsapCreator/pihole-blocklists/master/malware
 
 https://raw.githubusercontent.com/KitsapCreator/pihole-blocklists/master/scam-spam.txt
 
+https://raw.githubusercontent.com/Bon-Appetit/porn-domains/master/block.txt
 
-Blocklist list section complete. 152 entries.
+
+Blocklist list section complete. 153 entries.
 
 ## Allowlist:
 
@@ -401,7 +403,8 @@ Allow out port 443:
 104.21.85.239,
 44.236.72.93,
 104.16.132.229,
-141.193.213.20
+141.193.213.20,
+217.64.148.8
 
 Allow out port 123:
 69.1.1.251,
@@ -416,7 +419,8 @@ Allow out port 80:
 151.101.66.133,
 151.101.194.133,
 151.101.2.133,
-151.101.130.133
+151.101.130.133,
+141.193.213.20
 
 Obviously this will allow out to these IP's in order to fix certain webpages/other services loading at the expense of potentially blocking a DOH server. Your call if you want functionality over security. 
 If you use a second (or more) layer to capture DOH (eg: sensei) then this can be done as your second layer of prevention should hopefully capture it.

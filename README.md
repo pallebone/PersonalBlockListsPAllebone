@@ -315,8 +315,10 @@ https://raw.githubusercontent.com/KitsapCreator/pihole-blocklists/master/scam-sp
 
 https://raw.githubusercontent.com/Bon-Appetit/porn-domains/master/block.txt
 
+https://github.com/iam-py-test/my_filters_001/blob/main/Alternative%20list%20formats/antimalware_domains.txt
 
-Blocklist list section complete. 153 entries.
+
+Blocklist list section complete. 154 entries.
 
 ## Allowlist:
 

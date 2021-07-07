@@ -407,7 +407,10 @@ Allow out port 443:
 104.16.132.229,
 141.193.213.20,
 217.64.148.8,
-104.21.68.104
+104.21.68.104,
+96.126.123.244,
+45.33.20.235,
+44.236.48.31
 
 Allow out port 123:
 69.1.1.251,
@@ -416,7 +419,8 @@ Allow out port 123:
 162.248.241.94,
 194.36.144.87,
 95.216.24.230,
-45.76.113.31
+45.76.113.31,
+94.16.114.254
 
 Allow out port 80:
 151.101.66.133,
@@ -425,7 +429,8 @@ Allow out port 80:
 151.101.130.133,
 141.193.213.20,
 172.67.70.80,
-104.26.4.174
+104.26.4.174,
+184.168.131.241
 
 Obviously this will allow out to these IP's in order to fix certain webpages/other services loading at the expense of potentially blocking a DOH server. Your call if you want functionality over security. 
 If you use a second (or more) layer to capture DOH (eg: sensei) then this can be done as your second layer of prevention should hopefully capture it.

@@ -317,8 +317,10 @@ https://raw.githubusercontent.com/Bon-Appetit/porn-domains/master/block.txt
 
 https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/antimalware_domains.txt
 
+https://orca.pet/notonmyshift/hosts.txt
 
-Blocklist list section complete. 154 entries.
+
+Blocklist list section complete. 155 entries.
 
 ## Allowlist:
 

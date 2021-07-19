@@ -219,12 +219,6 @@ https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt
 
 https://raw.githubusercontent.com/llacb47/mischosts/master/blacklist
 
-https://github.com/j-moriarti/pDNSf-Hosts-collection/releases/download/v1.0.0/pDNSf-hosts-part0.txt
-
-https://github.com/j-moriarti/pDNSf-Hosts-collection/releases/download/v1.0.0/pDNSf-hosts-part1.txt
-
-https://github.com/j-moriarti/pDNSf-Hosts-collection/releases/download/v1.0.0/pDNSf-hosts-part2.txt
-
 https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
 
 https://raw.githubusercontent.com/MetaMask/eth-phishing-detect/master/src/hosts.txt
@@ -320,7 +314,7 @@ https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20
 https://orca.pet/notonmyshift/hosts.txt
 
 
-Blocklist list section complete. 155 entries.
+Blocklist list section complete. 152 entries.
 
 ## Allowlist:
 

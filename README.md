@@ -209,8 +209,6 @@ https://blocklistproject.github.io/Lists/tiktok.txt
 
 https://blocklistproject.github.io/Lists/tracking.txt
 
-https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/youtubelist.txt
-
 https://raw.githubusercontent.com/tg12/pihole-phishtank-list/master/full_grav_list/gravity.txt
 
 https://hosts.oisd.nl/
@@ -314,7 +312,7 @@ https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20
 https://orca.pet/notonmyshift/hosts.txt
 
 
-Blocklist list section complete. 152 entries.
+Blocklist list section complete. 151 entries.
 
 ## Allowlist:
 

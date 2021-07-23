@@ -29,7 +29,6 @@ v10.events.data.microsoft.com
 web.vortex.data.microsoft.com
 reddit.app.link
 e.reddit.com
-metrics.icloud.com
 reddit.map.fastly.net
 gate.hockeyapp.net
 app.adjust.com
@@ -65,7 +64,6 @@ secure.gravatar.com
 link.email.dynect.net
 mobile.twitter.com
 api.facebook.com
-browser.sentry-cdn.com
 static.locallogic.co
 wish.securedtouch.com
 collector.githubapp.com
@@ -884,7 +882,6 @@ l-0014.l-msedge.net
 config-edge-skype.l-0014.l-msedge.net
 prod.registrar.skype.com
 api.aps.skype.com
-ct.pinterest.com
 2-01-37d2-0006.cdx.cedexis.net
 cdn.pbbl.co
 d.btttag.com
@@ -1223,7 +1220,6 @@ cf.iadsdk.apple.com
 gsp64-ssl.ls.apple.com
 gsp57-ssl-revgeo.ls.apple.com
 pancake.apple.com
-xp.apple.com
 gsp-ssl.ls.apple.com
 gsp10-ssl.apple.com
 lcdn-locator.apple.com
@@ -1493,7 +1489,6 @@ cl1.apple.com
 privacy.xboxlive.com
 rta.xboxlive.com
 userstats.xboxlive.com
-trk.pinterest.com
 api.pinterest.com
 rpt.cedexis.com
 p33258-cloud.cedexis-test.com
@@ -1564,7 +1559,6 @@ reportaproblem.apple.com
 nstool.netease.com
 optsdk.gameyw.easebar.com
 sdk-os.mpsdk.easebar.com
-aan.amazon.com
 onedriveclucprodbn20008.blob.core.windows.net
 www.dummies.com
 appleinsider.com

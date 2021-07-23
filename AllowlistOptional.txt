@@ -1971,3 +1971,4 @@ onedriveclucprodbn20017.blob.core.windows.net
 pdst.fm
 chtbl.com
 r4.res.office365.com.edgekey.net
+www.yourtango.com

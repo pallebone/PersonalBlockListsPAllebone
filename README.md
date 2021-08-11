@@ -348,7 +348,7 @@ Typical workflow will be client - pihole - relevant DNS (either ADDNS server or 
 
 This setup allows normal internal DNS while also providing pihole blocking and in addition the firewall DNS is filtered for malware by cloudflare.
 
-A firewall rule only allows DNS ports 53, and 853 from 2 machines - the Pihole and itself on the LAN interface.
+A firewall rule only allows DNS ports 53, and 853 from 2 machines - the Pihole and itself on the LAN interface. You may also wish to block/redirect 5353.
 
 More to follow....
 

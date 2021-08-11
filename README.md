@@ -313,8 +313,10 @@ https://orca.pet/notonmyshift/hosts.txt
 
 https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt
 
+https://gist.githubusercontent.com/ckuethe/f71185f604be9cde370e702aa179fc2e/raw/5622100a6d4dec867b3983445259cbb633301c9e/doh-blocklist.txt (Possible replacement for GreatWall).
 
-Blocklist list section complete. 152 entries.
+
+Blocklist list section complete. 153 entries.
 
 ## Allowlist:
 

@@ -311,8 +311,10 @@ https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20
 
 https://orca.pet/notonmyshift/hosts.txt
 
+https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt
 
-Blocklist list section complete. 151 entries.
+
+Blocklist list section complete. 152 entries.
 
 ## Allowlist:
 

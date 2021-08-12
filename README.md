@@ -357,7 +357,7 @@ IP Blocklists for DOH blocking (add to opnsense):
 
 https://raw.githubusercontent.com/dibdot/DoH-IP-blocklists/master/doh-ipv4.txt
 
-https://raw.githubusercontent.com/Sekhan/TheGreatWall/master/TheGreatWall_ipv4
+https://raw.githubusercontent.com/pallebone/TheGreatWall/master/TheGreatWall_ipv4 (forked from https://raw.githubusercontent.com/Sekhan/TheGreatWall/master/TheGreatWall_ipv4 - contains formatting error)
 
 https://raw.githubusercontent.com/oneoffdallas/dohservers/master/iplist.txt
 

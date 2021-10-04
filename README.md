@@ -285,18 +285,6 @@ https://rescure.me/rescure_domain_blacklist.txt
 
 https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/extra.txt
 
-https://raw.githubusercontent.com/mypdns/porn-records/master/submit_here/adult.mypdns.cloud/domains.list
-
-https://raw.githubusercontent.com/mypdns/porn-records/master/submit_here/adult.mypdns.cloud/hosts.list
-
-https://raw.githubusercontent.com/mypdns/porn-records/master/submit_here/adult.mypdns.cloud/mobile.list
-
-https://raw.githubusercontent.com/mypdns/porn-records/master/submit_here/adult.mypdns.cloud/snuff.list
-
-https://raw.githubusercontent.com/mypdns/porn-records/master/submit_here/adult.mypdns.cloud/wildcard.list
-
-https://raw.githubusercontent.com/mypdns/porn-records/master/submit_here/adult.mypdns.cloud/wildcard.rpz-nsdname
-
 https://raw.githubusercontent.com/KitsapCreator/pihole-blocklists/master/ads.txt
 
 https://raw.githubusercontent.com/KitsapCreator/pihole-blocklists/master/general.txt
@@ -315,6 +303,17 @@ https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.tx
 
 https://gist.githubusercontent.com/ckuethe/f71185f604be9cde370e702aa179fc2e/raw/5622100a6d4dec867b3983445259cbb633301c9e/doh-blocklist.txt (Possible replacement for GreatWall).
 
+https://mypdns.org/my-privacy-dns/porn-records/-/raw/master/submit_here/adult.mypdns.cloud/domains.list
+
+https://mypdns.org/my-privacy-dns/porn-records/-/raw/master/submit_here/adult.mypdns.cloud/hosts.list
+
+https://mypdns.org/my-privacy-dns/porn-records/-/raw/master/submit_here/adult.mypdns.cloud/mobile.list
+
+https://mypdns.org/my-privacy-dns/porn-records/-/raw/master/submit_here/adult.mypdns.cloud/snuff.list
+
+https://mypdns.org/my-privacy-dns/porn-records/-/raw/master/submit_here/adult.mypdns.cloud/wildcard.list
+
+https://mypdns.org/my-privacy-dns/porn-records/-/raw/master/submit_here/adult.mypdns.cloud/wildcard.rpz-nsdname
 
 Blocklist list section complete. 153 entries.
 

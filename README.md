@@ -340,7 +340,7 @@ PastedListOfDomainsFromClipboard is the list you copied to your clipboard. Allow
 
 Setup Overview
 
-Client DNS set to PIHOLE ---> Pihole DNS set to OPNsense Firewall with relevant forwarders for domain etc configured (if using AD) ---> Opnsense DNS set to 1.1.1.2 and 1.0.0.2 (cloudflare DNS with malware blocking).
+Client DNS set to PIHOLE ---> Pihole DNS set to OPNsense Firewall with relevant forwarders for domain etc configured (if using AD) ---> Opnsense DNS set to 1.1.1.2 and 1.0.0.2 (cloudflare DNS with malware blocking) or 1.1.1.1 and 1.0.0.1 if you prefer not to or even root hints if you prefer, up to you.
 A seperate windows DNS (AD) server is on the network that can resolve AD DNS for internal clients. This has pihole as a forwarder and itself as DNS/other AD controllers as per normal.
 
 For pihole to work you need to have conditional forwarders to the AD domain server (or auth errors will occur). For ease of use reccomend using windows DHCP as it can provide all relevant options via DHCP (domain etc).

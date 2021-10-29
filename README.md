@@ -342,13 +342,16 @@ Setup Overview
 
 Client DNS set to PIHOLE ---> Pihole DNS set to OPNsense Firewall with relevant forwarders for domain etc configured (if using AD) ---> Opnsense DNS set to 1.1.1.2 and 1.0.0.2 (cloudflare DNS with malware blocking).
 A seperate windows DNS (AD) server is on the network that can resolve AD DNS for internal clients. This has pihole as a forwarder and itself as DNS/other AD controllers as per normal.
+
 For pihole to work you need to have conditional forwarders to the AD domain server (or auth errors will occur). For ease of use reccomend using windows DHCP as it can provide all relevant options via DHCP (domain etc).
+
 Conditional forwarders will be something like:
 (assume 192.168.1.0/24 network) create on pihole /etc/dnsmasq.d/02-custom.conf and add details (note 192.168.1.1 and 1.2 are ssumed to be the DC's in example):
-server=/domainhere.com/192.168.1.1
-server=/domainhere.com/192.168.1.2
-server=/1.168.192.in-addr.arpa/192.168.1.1
-server=/1.168.192.in-addr.arpa/192.168.1.2
+
+server=/domainhere.com/192.168.1.1<br/>
+server=/domainhere.com/192.168.1.2<br/>
+server=/1.168.192.in-addr.arpa/192.168.1.1<br/>
+server=/1.168.192.in-addr.arpa/192.168.1.2<br/>
 
 after adding this file you can sudo pihole restartdns
 

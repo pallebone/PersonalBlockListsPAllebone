@@ -269,7 +269,7 @@ https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/ne
 
 https://raw.githubusercontent.com/TheAntiSocialEngineer/AntiSocial-BlockList-UK-Community/main/UK-Community.txt
 
-https://raw.githubusercontent.com/Clefspeare13/pornhosts/master/127.0.0.1/hosts
+https://mypdns.org/clefspeare13/pornhosts/-/raw/master/download_here/127.0.0.1/hosts
 
 https://kriskintel.com/feeds/ktip_covid_domains.txt
 

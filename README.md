@@ -377,6 +377,8 @@ https://raw.githubusercontent.com/jpgpi250/piholemanual/master/DOHipv4.txt
 
 https://raw.githubusercontent.com/cbuijs/accomplist/master/doh/plain.black.ip4cidr.list
 
+Note: for general malicious IP blocking you can view https://github.com/pallebone/StrictBlockPAllebone
+
 Manual added DOH IP's:
 1.1.1.1,1.0.0.1,1.1.1.2,1.0.0.2,1.1.1.3,1.0.0.3,104.17.64.4,104.17.65.4,203.107.1.4,193.161.193.99
 

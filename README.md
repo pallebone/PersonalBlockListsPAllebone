@@ -269,8 +269,6 @@ https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/ne
 
 https://raw.githubusercontent.com/TheAntiSocialEngineer/AntiSocial-BlockList-UK-Community/main/UK-Community.txt
 
-https://mypdns.org/clefspeare13/pornhosts/-/raw/master/download_here/127.0.0.1/hosts
-
 https://kriskintel.com/feeds/ktip_covid_domains.txt
 
 https://kriskintel.com/feeds/ktip_malicious_domains.txt
@@ -313,9 +311,9 @@ https://mypdns.org/my-privacy-dns/porn-records/-/raw/master/submit_here/adult.my
 
 https://mypdns.org/my-privacy-dns/porn-records/-/raw/master/submit_here/adult.mypdns.cloud/wildcard.list
 
-https://mypdns.org/my-privacy-dns/porn-records/-/raw/master/submit_here/adult.mypdns.cloud/wildcard.rpz-nsdname
+https://mypdns.org/clefspeare13/pornhosts/-/raw/master/download_here/0.0.0.0/hosts
 
-Blocklist list section complete. 153 entries.
+Blocklist list section complete. 152 entries.
 
 ## Allowlist:
 

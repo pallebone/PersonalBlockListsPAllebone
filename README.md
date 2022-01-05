@@ -313,7 +313,17 @@ https://mypdns.org/my-privacy-dns/porn-records/-/raw/master/submit_here/adult.my
 
 https://mypdns.org/clefspeare13/pornhosts/-/raw/master/download_here/0.0.0.0/hosts
 
-Blocklist list section complete. 152 entries.
+https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/big.txt
+
+https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/affiliatetracking.txt
+
+https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/threat-intelligence.txt
+
+https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/doh-vpn-proxy-bypass.txt
+
+https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/kees1958.txt
+
+Blocklist list section complete. 157 entries.
 
 ## Allowlist:
 

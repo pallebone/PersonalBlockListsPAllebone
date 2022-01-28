@@ -323,7 +323,16 @@ https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/doh-vpn-pr
 
 https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/kees1958.txt
 
-Blocklist list section complete. 157 entries.
+https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Cryptocurrency
+
+https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Dynamic
+
+https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Junk
+
+https://github.com/HexxiumCreations/threat-list/blob/gh-pages/hosts.txt
+
+
+Blocklist list section complete. 161 entries.
 
 ## Allowlist:
 

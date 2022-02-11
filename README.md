@@ -317,8 +317,10 @@ https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Junk
 
 https://github.com/HexxiumCreations/threat-list/blob/gh-pages/hosts.txt
 
+https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/adservers-and-trackers.txt
 
-Blocklist list section complete. 154 entries.
+
+Blocklist list section complete. 155 entries.
 
 ## Allowlist:
 

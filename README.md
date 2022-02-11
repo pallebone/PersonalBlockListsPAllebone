@@ -257,10 +257,6 @@ https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/domains.txt
 
 https://raw.githubusercontent.com/stamparm/aux/master/maltrail-malware-domains.txt
 
-https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/fake.txt
-
-https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/multi.txt
-
 https://gitlab.com/andryou/block/raw/master/senpai-strict-domains
 
 https://www.stopforumspam.com/downloads/toxic_domains_whole.txt
@@ -313,16 +309,6 @@ https://mypdns.org/my-privacy-dns/porn-records/-/raw/master/submit_here/adult.my
 
 https://mypdns.org/clefspeare13/pornhosts/-/raw/master/download_here/0.0.0.0/hosts
 
-https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/big.txt
-
-https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/affiliatetracking.txt
-
-https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/threat-intelligence.txt
-
-https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/doh-vpn-proxy-bypass.txt
-
-https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/kees1958.txt
-
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Cryptocurrency
 
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Dynamic
@@ -332,7 +318,7 @@ https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Junk
 https://github.com/HexxiumCreations/threat-list/blob/gh-pages/hosts.txt
 
 
-Blocklist list section complete. 161 entries.
+Blocklist list section complete. 154 entries.
 
 ## Allowlist:
 

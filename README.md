@@ -297,18 +297,6 @@ https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.tx
 
 https://gist.githubusercontent.com/ckuethe/f71185f604be9cde370e702aa179fc2e/raw/5622100a6d4dec867b3983445259cbb633301c9e/doh-blocklist.txt (Possible replacement for GreatWall).
 
-https://mypdns.org/my-privacy-dns/porn-records/-/raw/master/submit_here/adult.mypdns.cloud/domains.list
-
-https://mypdns.org/my-privacy-dns/porn-records/-/raw/master/submit_here/adult.mypdns.cloud/hosts.list
-
-https://mypdns.org/my-privacy-dns/porn-records/-/raw/master/submit_here/adult.mypdns.cloud/mobile.list
-
-https://mypdns.org/my-privacy-dns/porn-records/-/raw/master/submit_here/adult.mypdns.cloud/snuff.list
-
-https://mypdns.org/my-privacy-dns/porn-records/-/raw/master/submit_here/adult.mypdns.cloud/wildcard.list
-
-https://mypdns.org/clefspeare13/pornhosts/-/raw/master/download_here/0.0.0.0/hosts
-
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Cryptocurrency
 
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Dynamic
@@ -319,8 +307,9 @@ https://github.com/HexxiumCreations/threat-list/blob/gh-pages/hosts.txt
 
 https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/adservers-and-trackers.txt
 
+https://raw.githubusercontent.com/elliotwutingfeng/ipsniper-info-malicious/main/ipsniper-info-malicious-urls.txt
 
-Blocklist list section complete. 155 entries.
+Blocklist list section complete. 150 entries.
 
 ## Allowlist:
 

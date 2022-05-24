@@ -309,7 +309,9 @@ https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/b
 
 https://raw.githubusercontent.com/elliotwutingfeng/ipsniper-info-malicious/main/ipsniper-info-malicious-urls.txt
 
-Blocklist list section complete. 150 entries.
+https://raw.githubusercontent.com/Te-k/stalkerware-indicators/master/generated/hosts
+
+Blocklist list section complete. 151 entries.
 
 ## Allowlist:
 

@@ -2116,7 +2116,6 @@ smtp.zoho.com
 windowsupdate.s.llnwi.net
 www.davidrumsey.com
 browser-http-intake.logs.datadoghq.com
-weather-analytics-events.news.apple-dns.net
 deff.nelreports.net
 clc.stackoverflow.com
 location.l.force.com

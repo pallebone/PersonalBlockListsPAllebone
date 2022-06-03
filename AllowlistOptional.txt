@@ -273,7 +273,6 @@ appleglobal.102.112.2o7.net
 bit.do
 go.redirectingat.com
 go.skimresources.com
-stats.gc.fe.apple-dns.net
 stats.gc-apple.com.akadns.net
 reports.crashlytics.com
 www.godaddy.com
@@ -580,7 +579,6 @@ meta.wikimedia.org
 encrypted-tbn0.gstatic.com
 www.zerohedge.com
 canyoublockit.com
-me.apple-dns.net
 clients1.google.com
 fcm.googleapis.com
 cdn.onesignal.com
@@ -775,7 +773,6 @@ jssdkcdn.mparticle.com
 identity.mparticle.com
 polyfill.io
 imgur.com
-fmfmobile.fe.apple-dns.net
 gspe11-ssl.ls.apple.com.edgekey.net
 quicksilver.scdn.co
 embed.typeform.com
@@ -839,7 +836,6 @@ fcmtoken.googleapis.com
 aa.google.com
 gstaticadssl.l.google.com
 skyapi.live.net
-stocks-edge.news.apple-dns.net
 rupload.facebook.com
 edge-mqtt.facebook.com
 web.facebook.com
@@ -1176,7 +1172,6 @@ array608.prod.do.dsp.mp.microsoft.com
 onedriveclucprodbn20020.blob.core.windows.net
 gfycat.com
 opensource.com
-gateway.fe.apple-dns.net
 mesu-cdn.origin-apple.com.akadns.net
 guzzoni-apple-com.v.aaplimg.com
 mesu.apple.com
@@ -1184,7 +1179,6 @@ cma.itunes-apple.com.akadns.net
 guzzoni.apple.com
 time.apple.com
 apple.com
-content.fe.apple-dns.net
 bag.itunes.apple.com
 configuration.ls.apple.com
 cma.itunes.apple.com
@@ -1707,7 +1701,6 @@ cdn.amplitude.com
 weatherservices.datasavannah.com
 tyler-resources.datasavannah.com
 ans.oobesaas.adobe.com
-fmf.fe.apple-dns.net
 musicplayonline.com
 mcpedl.com
 bugs.mojang.com

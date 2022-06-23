@@ -311,7 +311,13 @@ https://raw.githubusercontent.com/elliotwutingfeng/ipsniper-info-malicious/main/
 
 https://raw.githubusercontent.com/Te-k/stalkerware-indicators/master/generated/hosts
 
-Blocklist list section complete. 151 entries.
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.txt
+
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/tif.txt
+
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/doh-vpn-proxy-bypass.txt
+
+Blocklist list section complete. 154 entries.
 
 ## Allowlist:
 

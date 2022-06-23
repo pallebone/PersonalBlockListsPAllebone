@@ -378,7 +378,7 @@ Note: for general malicious IP blocking you can view https://github.com/pallebon
 Manual added DOH IP's:
 1.1.1.1,1.0.0.1,1.1.1.2,1.0.0.2,1.1.1.3,1.0.0.3,104.17.64.4,104.17.65.4,203.107.1.4,193.161.193.99
 
-Manuak added DOH ranges:
+Manual added DOH ranges:
 101.36.166.0/24,203.107.1.0/24
 
 Unfortunatly some DOH IP's also serve other traffic (CDN or other services etc). This means you most probably will want a Allowlisting rule that allows out clients on the network to certain ip/ports that are blocked via the IP blocklists above.
@@ -430,6 +430,8 @@ Allow out port 443:
 95.216.25.250,
 162.159.138.85,
 162.159.137.85
+172.224.62.11
+172.224.63.11
 
 Allow out port 123:
 69.1.1.251,

@@ -307,7 +307,7 @@ https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/tif.txt
 
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/doh-vpn-proxy-bypass.txt
 
-Blocklist list section complete. 149 entries. Last edit removed some lists that went dead for over 1 year.
+Blocklist list section complete. 149 entries. Last edit removed some lists that went dead for over 1 year...
 
 ## Allowlist:
 

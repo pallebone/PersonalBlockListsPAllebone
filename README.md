@@ -39,8 +39,6 @@ https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
 
 https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
 
-https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt
-
 https://phishing.army/download/phishing_army_blocklist_extended.txt
 
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
@@ -131,13 +129,9 @@ https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spam
 
 https://someonewhocares.org/hosts/zero/hosts
 
-https://winhelp2002.mvps.org/hosts.txt
-
 https://v.firebog.net/hosts/neohostsbasic.txt
 
 https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-
-https://paulgb.github.io/BarbBlock/blacklists/hosts-file.txt
 
 https://v.firebog.net/hosts/Admiral.txt
 
@@ -178,8 +172,6 @@ https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
 https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_all.list
 
 https://gitlab.com/The_Quantum_Alpha/the-quantum-ad-list/-/raw/master/For%20hosts%20file/The_Quantum_Ad-List.txt
-
-https://blocklist.cyberthreatcoalition.org/vetted/domain.txt
 
 https://raw.githubusercontent.com/sk-cat/fluffy-blocklist/main/domains
 
@@ -265,8 +257,6 @@ https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/ne
 
 https://raw.githubusercontent.com/TheAntiSocialEngineer/AntiSocial-BlockList-UK-Community/main/UK-Community.txt
 
-https://kriskintel.com/feeds/ktip_covid_domains.txt
-
 https://kriskintel.com/feeds/ktip_malicious_domains.txt
 
 http://phishing.mailscanner.info/phishing.bad.sites.conf
@@ -317,7 +307,7 @@ https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/tif.txt
 
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/doh-vpn-proxy-bypass.txt
 
-Blocklist list section complete. 154 entries.
+Blocklist list section complete. 149 entries. Last edit removed some lists that went dead for over 1 year.
 
 ## Allowlist:
 

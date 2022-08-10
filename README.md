@@ -307,7 +307,17 @@ https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/tif.txt
 
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/doh-vpn-proxy-bypass.txt
 
-Blocklist list section complete. 149 entries. Last edit removed some lists that went dead for over 1 year...
+https://github.com/olbat/ut1-blacklists/blob/master/blacklists/adult/domains.gz
+
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/malware
+
+https://malware-filter.gitlab.io/malware-filter/phishing-filter-domains.txt
+
+https://malware-filter.gitlab.io/malware-filter/pup-filter-domains.txt
+
+https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-domains.txt
+
+Blocklist list section complete. 154 entries. Last edit removed some lists that went dead for over 1 year...
 
 ## Allowlist:
 

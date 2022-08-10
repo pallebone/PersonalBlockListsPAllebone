@@ -293,8 +293,6 @@ https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Dynami
 
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Junk
 
-https://github.com/HexxiumCreations/threat-list/blob/gh-pages/hosts.txt
-
 https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/adservers-and-trackers.txt
 
 https://raw.githubusercontent.com/elliotwutingfeng/ipsniper-info-malicious/main/ipsniper-info-malicious-urls.txt
@@ -307,8 +305,6 @@ https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/tif.txt
 
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/doh-vpn-proxy-bypass.txt
 
-https://github.com/olbat/ut1-blacklists/blob/master/blacklists/adult/domains.gz
-
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/malware
 
 https://malware-filter.gitlab.io/malware-filter/phishing-filter-domains.txt
@@ -317,7 +313,9 @@ https://malware-filter.gitlab.io/malware-filter/pup-filter-domains.txt
 
 https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-domains.txt
 
-Blocklist list section complete. 154 entries. Last edit removed some lists that went dead for over 1 year...
+https://raw.githubusercontent.com/HexxiumCreations/threat-list/gh-pages/hosts.txt
+
+Blocklist list section complete. 153 entries. Last edit removed some lists that went dead for over 1 year...
 
 ## Allowlist:
 

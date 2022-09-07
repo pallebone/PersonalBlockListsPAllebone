@@ -2402,3 +2402,17 @@ pics.paypal.com
 zn1ynnliufrct75cb-paypalxm.siteintercept.qualtrics.com
 slc.stats.paypal.com
 www.paypalobjects.com
+disney.my.sentry.io
+disneyplus.com.ssl.sc.omtrdc.net
+elementor.com
+wordpress.com
+www.inmoment.com
+inmoment.com
+delugedrop.itch.io
+www.history.com
+locationservices.datasavannah.com
+nitter.net
+yougov.co.uk
+api.bibblio.org
+api.omappapi.com
+go.sparkpostmail.com

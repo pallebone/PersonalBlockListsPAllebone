@@ -43,8 +43,6 @@ https://phishing.army/download/phishing_army_blocklist_extended.txt
 
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
 
-https://v.firebog.net/hosts/Shalla-mal.txt
-
 https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-hosts.txt
 
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
@@ -121,8 +119,6 @@ https://raw.githubusercontent.com/tg12/pihole-phishtank-list/master/list/phish_d
 
 https://anti-ad.net/domains.txt
 
-https://raw.githubusercontent.com/Amdromeda/Blocklist-Pi-Hole/master/Ads%20and%20trackers.txt
-
 https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts
 
 https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt
@@ -170,8 +166,6 @@ https://raw.githubusercontent.com/HorusTeknoloji/TR-PhishingList/master/url-list
 https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
 
 https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_all.list
-
-https://gitlab.com/The_Quantum_Alpha/the-quantum-ad-list/-/raw/master/For%20hosts%20file/The_Quantum_Ad-List.txt
 
 https://raw.githubusercontent.com/sk-cat/fluffy-blocklist/main/domains
 
@@ -315,7 +309,7 @@ https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-domains.txt
 
 https://raw.githubusercontent.com/HexxiumCreations/threat-list/gh-pages/hosts.txt
 
-Blocklist list section complete. 153 entries. Last edit removed some lists that went dead for over 1 year...
+Blocklist list section complete. 150 entries. Last edit removed some lists that went dark.
 
 ## Allowlist:
 

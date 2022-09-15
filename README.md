@@ -459,4 +459,30 @@ Allow out port 80:
 Obviously this will allow out to these IP's in order to fix certain webpages/other services loading at the expense of potentially blocking a DOH server. Your call if you want functionality over security. 
 If you use a second (or more) layer to capture DOH (eg: sensei) then this can be done as your second layer of prevention should hopefully capture it.
 
+
+Rough How To guide for blocking DOH/DOT etc with Opnsense that has overlapping protection in case they get through 1 service:
+
+1) Outbound NAT rules to redirect port 53 TCP/UDP to Pihole (Log to locate devices trying to bypass your DNS and remove them from your network).
+2) Outbound NAT rules to redirect port 853 TCP/UDP to Pihole(Log to locate devices trying to bypass your DNS and remove them from your network).
+3) Zenarmor tick rule to block DNS over TLS (Zenarmor has a logging interface automatically)
+4) Zenarmor tick rule to block DNS over HTTPS
+5) LAN rule to block 8853 UDP out (Dont bother logging any chrome browser will trigger log).
+6) LAN rule to block 443 UDP out (Dont bother logging any chrome browser will trigger log).
+7) LAN AllowList Alias to allow out CND networks if required
+8) LAN BlockList Alias to block outbound IP's on lists (LOG THIS RULE SO YOU CAN SEE WHEN IP's BLOCKED):
+    https://raw.githubusercontent.com/dibdot/DoH-IP-blocklists/master/doh-ipv4.txt ... etc use lists specified above
+    List of manual IP's I have found:
+    Manual added DOH IP's: 1.1.1.1... check IP's above I listed.
+    Manual added DOH ranges: 101.36.166.0/24,... check ranges above I specified
+
+Note : AllowList I have had to open so far contains this port/ip combinations:
+
+Allow out port 443: 151.101.66.133, 151.101.2.133,... and so on with IP's I listed above
+
+Allow out port 123: 69.1.1.251, 129.250.35.250,... and so on with IP's I listed above
+
+Allow out port 80: 151.101.66.133, 151.101.194.133... and so on with IP's I listed above
+
+With this combination I have not been able to find a way to bypass the block unless an IP is added to the allowlist (required if you want to access a site that is a CDN).
+
 ----End----

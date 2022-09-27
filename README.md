@@ -309,7 +309,11 @@ https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-domains.txt
 
 https://raw.githubusercontent.com/HexxiumCreations/threat-list/gh-pages/hosts.txt
 
-Blocklist list section complete. 150 entries. Last edit removed some lists that went dark.
+https://v.firebog.net/hosts/RPiList-Malware.txt
+
+https://v.firebog.net/hosts/RPiList-Phishing.txt
+
+Blocklist list section complete. 152 entries. Last edit removed some lists that went dark.
 
 ## Allowlist:
 

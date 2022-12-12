@@ -77,10 +77,6 @@ https://block.energized.pro/extensions/xtreme/formats/hosts
 
 https://block.energized.pro/extensions/regional/formats/hosts
 
-https://raw.githubusercontent.com/llacb47/mischosts/master/social/tiktok-block
-
-https://raw.githubusercontent.com/llacb47/mischosts/master/tiktok-hosts
-
 https://justdomains.github.io/blocklists/lists/easylist-justdomains.txt
 
 https://justdomains.github.io/blocklists/lists/easyprivacy-justdomains.txt
@@ -201,8 +197,6 @@ https://hosts.oisd.nl/
 
 https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt
 
-https://raw.githubusercontent.com/llacb47/mischosts/master/blacklist
-
 https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
 
 https://raw.githubusercontent.com/MetaMask/eth-phishing-detect/master/src/hosts.txt
@@ -315,7 +309,9 @@ https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-hosts.txt
 
 https://dl.nrd-list.com/0/nrd-list-32-days.txt
 
-Blocklist list section complete. 153 entries. Last edit removed some lists that went dark.
+https://raw.githubusercontent.com/danhorton7/pihole-block-tiktok/main/tiktok.txt
+
+Blocklist list section complete. 151 entries. Last edit removed some lists that went dark.
 
 ## Allowlist:
 

@@ -311,7 +311,9 @@ https://dl.nrd-list.com/0/nrd-list-32-days.txt
 
 https://raw.githubusercontent.com/danhorton7/pihole-block-tiktok/main/tiktok.txt
 
-Blocklist list section complete. 151 entries. 
+https://hosts.tweedge.net/malicious.txt
+
+Blocklist list section complete. 152 entries. 
 
 ## Allowlist:
 

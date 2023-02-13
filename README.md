@@ -239,8 +239,6 @@ https://raw.githubusercontent.com/KitsapCreator/pihole-blocklists/master/malware
 
 https://raw.githubusercontent.com/KitsapCreator/pihole-blocklists/master/scam-spam.txt
 
-https://raw.githubusercontent.com/Bon-Appetit/porn-domains/master/block.txt
-
 https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/antimalware_domains.txt
 
 https://orca.pet/notonmyshift/hosts.txt
@@ -287,7 +285,7 @@ https://raw.githubusercontent.com/danhorton7/pihole-block-tiktok/main/tiktok.txt
 
 https://hosts.tweedge.net/malicious.txt
 
-Blocklist list section complete. 139 entries. 
+Blocklist list section complete. 138 entries. 
 
 ## Allowlist:
 

@@ -141,8 +141,6 @@ https://raw.githubusercontent.com/HorusTeknoloji/TR-PhishingList/master/url-list
 
 https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
 
-https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_all.list
-
 https://raw.githubusercontent.com/sk-cat/fluffy-blocklist/main/domains
 
 https://blocklistproject.github.io/Lists/abuse.txt
@@ -293,7 +291,7 @@ https://raw.githubusercontent.com/danhorton7/pihole-block-tiktok/main/tiktok.txt
 
 https://hosts.tweedge.net/malicious.txt
 
-Blocklist list section complete. 142 entries. 
+Blocklist list section complete. 141 entries. 
 
 ## Allowlist:
 

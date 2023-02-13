@@ -51,31 +51,11 @@ https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-g
 
 https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
 
-https://block.energized.pro/extensions/porn-lite/formats/hosts
-
-https://block.energized.pro/blu/formats/hosts
-
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext
-
-https://block.energized.pro/unified/formats/hosts
 
 https://raw.githubusercontent.com/oneoffdallas/dohservers/master/list.txt
 
 https://raw.githubusercontent.com/Sekhan/TheGreatWall/master/TheGreatWall.txt (Last update June 2020... new list needed if replacement can be found).
-
-https://block.energized.pro/spark/formats/hosts
-
-https://block.energized.pro/bluGo/formats/hosts
-
-https://block.energized.pro/basic/formats/hosts
-
-https://block.energized.pro/porn/formats/hosts
-
-https://block.energized.pro/ultimate/formats/hosts
-
-https://block.energized.pro/extensions/xtreme/formats/hosts
-
-https://block.energized.pro/extensions/regional/formats/hosts
 
 https://justdomains.github.io/blocklists/lists/easylist-justdomains.txt
 
@@ -313,7 +293,7 @@ https://raw.githubusercontent.com/danhorton7/pihole-block-tiktok/main/tiktok.txt
 
 https://hosts.tweedge.net/malicious.txt
 
-Blocklist list section complete. 152 entries. 
+Blocklist list section complete. 142 entries. 
 
 ## Allowlist:
 

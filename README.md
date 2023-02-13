@@ -221,8 +221,6 @@ https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/ne
 
 https://raw.githubusercontent.com/TheAntiSocialEngineer/AntiSocial-BlockList-UK-Community/main/UK-Community.txt
 
-https://kriskintel.com/feeds/ktip_malicious_domains.txt
-
 http://phishing.mailscanner.info/phishing.bad.sites.conf
 
 https://raw.githubusercontent.com/matomo-org/referrer-spam-list/master/spammers.txt
@@ -289,7 +287,7 @@ https://raw.githubusercontent.com/danhorton7/pihole-block-tiktok/main/tiktok.txt
 
 https://hosts.tweedge.net/malicious.txt
 
-Blocklist list section complete. 140 entries. 
+Blocklist list section complete. 139 entries. 
 
 ## Allowlist:
 

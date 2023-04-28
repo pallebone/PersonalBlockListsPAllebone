@@ -285,7 +285,9 @@ https://raw.githubusercontent.com/danhorton7/pihole-block-tiktok/main/tiktok.txt
 
 https://hosts.tweedge.net/malicious.txt
 
-Blocklist list section complete. 138 entries. 
+https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/master/formats/domains.txt
+
+Blocklist list section complete. 139 entries. 
 
 ## Allowlist:
 

@@ -263,8 +263,6 @@ https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.txt
 
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/tif.txt
 
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/doh-vpn-proxy-bypass.txt
-
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/malware
 
 https://raw.githubusercontent.com/HexxiumCreations/threat-list/gh-pages/hosts.txt
@@ -286,6 +284,8 @@ https://raw.githubusercontent.com/danhorton7/pihole-block-tiktok/main/tiktok.txt
 https://hosts.tweedge.net/malicious.txt
 
 https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/master/formats/domains.txt
+
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/doh-vpn-proxy-bypass.txt
 
 Blocklist list section complete. 139 entries. 
 

@@ -9,21 +9,26 @@ In addition there is some IP lists for use on your firewalls to block users who 
 
 ## Blocklists
 
+Porn if required to filter:
+https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn/hosts
+
+https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Adult
+
+https://raw.githubusercontent.com/cbuijs/accomplist/master/family-safe/plain.black.top-n.domain.list
+
+https://blocklistproject.github.io/Lists/adguard/porn-ags.txt
+
+Optional list if filtering of Newly Registered Domains is required:
+https://dl.nrd-list.com/1/nrd-list-32-days.txt
+
+Normal lists:
 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-
-https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-
-https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
 
 https://v.firebog.net/hosts/static/w3kbl.txt
 
 https://adaway.org/hosts.txt
 
-https://v.firebog.net/hosts/AdguardDNS.txt
-
 https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
-
-https://v.firebog.net/hosts/Easylist.txt
 
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
 
@@ -31,31 +36,15 @@ https://v.firebog.net/hosts/Easyprivacy.txt
 
 https://v.firebog.net/hosts/Prigent-Ads.txt
 
-https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
-
 https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
 
 https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
 
-https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
-
 https://phishing.army/download/phishing_army_blocklist_extended.txt
-
-https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
-
-https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-hosts.txt
-
-https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
-
-https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn/hosts
-
-https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
-
-https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext
 
 https://raw.githubusercontent.com/oneoffdallas/dohservers/master/list.txt
 
-https://raw.githubusercontent.com/Sekhan/TheGreatWall/master/TheGreatWall.txt (Last update June 2020... new list needed if replacement can be found).
+https://raw.githubusercontent.com/Sekhan/TheGreatWall/master/TheGreatWall.txt
 
 https://justdomains.github.io/blocklists/lists/easylist-justdomains.txt
 
@@ -65,21 +54,9 @@ https://justdomains.github.io/blocklists/lists/adguarddns-justdomains.txt
 
 https://justdomains.github.io/blocklists/lists/nocoin-justdomains.txt
 
-https://github.com/marcusminus/Orthrus-BlockList/raw/master/hosts.txt
-
 https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
 
-https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
-
-https://raw.githubusercontent.com/smed79/blacklist/master/hosts.txt
-
-https://raw.githubusercontent.com/notracking/hosts-blocklists/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt
-
-https://raw.githubusercontent.com/mkb2091/blockconvert/master/output/domains.txt
-
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
-
-https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Adult
 
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Malware
 
@@ -93,8 +70,6 @@ https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tunnel
 
 https://raw.githubusercontent.com/tg12/pihole-phishtank-list/master/list/phish_domains.txt
 
-https://anti-ad.net/domains.txt
-
 https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts
 
 https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt
@@ -104,10 +79,6 @@ https://someonewhocares.org/hosts/zero/hosts
 https://v.firebog.net/hosts/neohostsbasic.txt
 
 https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-
-https://v.firebog.net/hosts/Admiral.txt
-
-https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
 
 https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts
 
@@ -129,8 +100,6 @@ https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
 
 https://v.firebog.net/hosts/Prigent-Crypto.txt
 
-https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
-
 https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts
 
 https://urlhaus.abuse.ch/downloads/hostfile/
@@ -143,57 +112,21 @@ https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
 
 https://raw.githubusercontent.com/sk-cat/fluffy-blocklist/main/domains
 
-https://blocklistproject.github.io/Lists/abuse.txt
-
-https://blocklistproject.github.io/Lists/ads.txt
-
-https://blocklistproject.github.io/Lists/crypto.txt
-
-https://blocklistproject.github.io/Lists/drugs.txt
-
-https://blocklistproject.github.io/Lists/fraud.txt
-
-https://blocklistproject.github.io/Lists/gambling.txt
-
-https://blocklistproject.github.io/Lists/malware.txt
-
-https://blocklistproject.github.io/Lists/phishing.txt
-
-https://blocklistproject.github.io/Lists/porn.txt
-
-https://blocklistproject.github.io/Lists/ransomware.txt
-
-https://blocklistproject.github.io/Lists/scam.txt
-
-https://blocklistproject.github.io/Lists/tiktok.txt
-
-https://blocklistproject.github.io/Lists/tracking.txt
-
-https://hosts.oisd.nl/
-
-https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt
-
 https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
 
 https://raw.githubusercontent.com/MetaMask/eth-phishing-detect/master/src/hosts.txt
-
-https://raw.githubusercontent.com/neodevpro/neodevhost/master/host
 
 https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/blacklist.txt
 
 https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/malware/domains
 
-https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/doh/domains (Possible replacement for GreatWall).
+https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/doh/domains
 
 https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts
 
-https://raw.githubusercontent.com/dibdot/DoH-IP-blocklists/master/doh-domains.txt (Possible replacement for GreatWall).
-
-https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hosts
-
-https://raw.githubusercontent.com/ftpmorph/ftprivacy/master/blocklists/smartphone-ads-tracking.txt
-
 https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt
+
+https://raw.githubusercontent.com/dibdot/DoH-IP-blocklists/master/doh-domains.txt
 
 https://raw.githubusercontent.com/CleanMachine1/AdlistTXTS/main/list.txt
 
@@ -203,29 +136,15 @@ https://raw.githubusercontent.com/cbuijs/accomplist/master/doh/optimized.black.d
 
 https://raw.githubusercontent.com/cbuijs/accomplist/master/malicious-dom/plain.black.domain.list
 
-https://raw.githubusercontent.com/cbuijs/accomplist/master/oisd/plain.black.top-n.domain.list
-
-https://raw.githubusercontent.com/cbuijs/accomplist/master/family-safe/plain.black.top-n.domain.list
-
 https://raw.githubusercontent.com/cbuijs/accomplist/master/doh/plain.black.top-n.domain.list
 
-https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/domains.txt
-
-https://raw.githubusercontent.com/stamparm/aux/master/maltrail-malware-domains.txt
-
-https://gitlab.com/andryou/block/raw/master/senpai-strict-domains
-
 https://www.stopforumspam.com/downloads/toxic_domains_whole.txt
-
-https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts
 
 https://raw.githubusercontent.com/TheAntiSocialEngineer/AntiSocial-BlockList-UK-Community/main/UK-Community.txt
 
 http://phishing.mailscanner.info/phishing.bad.sites.conf
 
 https://raw.githubusercontent.com/matomo-org/referrer-spam-list/master/spammers.txt
-
-https://rescure.me/covid.txt
 
 https://rescure.me/rescure_domain_blacklist.txt
 
@@ -239,13 +158,7 @@ https://raw.githubusercontent.com/KitsapCreator/pihole-blocklists/master/malware
 
 https://raw.githubusercontent.com/KitsapCreator/pihole-blocklists/master/scam-spam.txt
 
-https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/antimalware_domains.txt
-
-https://orca.pet/notonmyshift/hosts.txt
-
-https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt
-
-https://gist.githubusercontent.com/ckuethe/f71185f604be9cde370e702aa179fc2e/raw/5622100a6d4dec867b3983445259cbb633301c9e/doh-blocklist.txt (Possible replacement for GreatWall).
+https://gist.githubusercontent.com/ckuethe/f71185f604be9cde370e702aa179fc2e/raw/5622100a6d4dec867b3983445259cbb633301c9e/doh-blocklist.txt
 
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Cryptocurrency
 
@@ -255,13 +168,7 @@ https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Junk
 
 https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/adservers-and-trackers.txt
 
-https://raw.githubusercontent.com/elliotwutingfeng/ipsniper-info-malicious/main/ipsniper-info-malicious-urls.txt
-
 https://raw.githubusercontent.com/Te-k/stalkerware-indicators/master/generated/hosts
-
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.txt
-
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/tif.txt
 
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/malware
 
@@ -271,23 +178,107 @@ https://v.firebog.net/hosts/RPiList-Malware.txt
 
 https://v.firebog.net/hosts/RPiList-Phishing.txt
 
-https://malware-filter.gitlab.io/malware-filter/phishing-filter-hosts.txt
-
-https://malware-filter.gitlab.io/malware-filter/pup-filter-hosts.txt
-
-https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-hosts.txt
-
-https://dl.nrd-list.com/0/nrd-list-32-days.txt
-
 https://raw.githubusercontent.com/danhorton7/pihole-block-tiktok/main/tiktok.txt
 
 https://hosts.tweedge.net/malicious.txt
 
-https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/master/formats/domains.txt
+https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/doh-vpn-proxy-bypass.txt
+https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt
 
-Blocklist list section complete. 139 entries. 
+https://github.com/marcusminus/Orthrus-BlockList/raw/master/blocklist.txt
+
+https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/adguard.txt
+
+https://raw.githubusercontent.com/smed79/blacklist/master/abp.txt
+
+https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/malware-domains.txt
+
+https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=0&mimetype=plaintext
+
+https://raw.githubusercontent.com/Spam404/lists/master/adblock-list.txt
+
+https://blocklistproject.github.io/Lists/adguard/abuse-ags.txt
+
+https://blocklistproject.github.io/Lists/adguard/ads-ags.txt
+
+https://blocklistproject.github.io/Lists/adguard/crypto-ags.txt
+
+https://blocklistproject.github.io/Lists/adguard/drugs-ags.txt
+
+https://blocklistproject.github.io/Lists/adguard/fraud-ags.txt
+
+https://blocklistproject.github.io/Lists/adguard/gambling-ags.txt
+
+https://blocklistproject.github.io/Lists/adguard/malware-ags.txt
+
+https://blocklistproject.github.io/Lists/adguard/phishing-ags.txt
+
+https://blocklistproject.github.io/Lists/adguard/ransomware-ags.txt
+
+https://blocklistproject.github.io/Lists/adguard/scam-ags.txt
+
+https://blocklistproject.github.io/Lists/adguard/tiktok-ags.txt
+
+https://blocklistproject.github.io/Lists/adguard/tracking-ags.txt
+
+https://big.oisd.nl/
+
+https://raw.githubusercontent.com/neodevpro/neodevhost/master/adblocker
+
+https://raw.githubusercontent.com/stamparm/aux/master/maltrail-malware-domains.txt
+
+https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/adblock.txt
+
+https://gitlab.com/andryou/block/raw/master/kouhai-adblockplus
+
+https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/cpbl-abp-list.txt
+
+https://orca.pet/notonmyshift/abp.txt
+
+https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-AdBlock-Filter.txt
+
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt
+
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt
+
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/doh.txt
+
+https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/master/formats/filter.txt
+
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareABP.txt
+
+https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-domains.txt
+
+https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt
+
+https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/antimalware_abp.txt
+
+https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADomains.txt
+
+https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-agh.txt
+
+https://malware-filter.gitlab.io/malware-filter/phishing-filter-agh.txt
+
+https://malware-filter.gitlab.io/malware-filter/pup-filter-agh.txt
+
+https://raw.githubusercontent.com/ghostnetic/adblock-filter-compiler/main/blocklist.txt
+
+https://raw.githubusercontent.com/SystemJargon/filters/main/core.txt
+
+https://raw.githubusercontent.com/systemjargon/filters/main/security.txt
+
+https://raw.githubusercontent.com/systemjargon/filters/main/threats.txt
+
+https://raw.githubusercontent.com/systemjargon/filters/main/telemetry.txt
+
+https://raw.githubusercontent.com/systemjargon/filters/main/ads.txt
+
+https://raw.githubusercontent.com/systemjargon/filters/main/firebog-ticklist.txt
+
+https://raw.githubusercontent.com/systemjargon/filters/main/restrict-bypass.txt
+
+Total number of lists: 133 
 
 ## Allowlist:
 

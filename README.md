@@ -10,6 +10,7 @@ In addition there is some IP lists for use on your firewalls to block users who 
 ## Blocklists
 
 Porn if required to filter:
+
 https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn/hosts
 
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Adult
@@ -18,10 +19,14 @@ https://raw.githubusercontent.com/cbuijs/accomplist/master/family-safe/plain.bla
 
 https://blocklistproject.github.io/Lists/adguard/porn-ags.txt
 
+
 Optional list if filtering of Newly Registered Domains is required:
+
 https://dl.nrd-list.com/1/nrd-list-32-days.txt
 
+
 Normal lists:
+
 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 
 https://v.firebog.net/hosts/static/w3kbl.txt

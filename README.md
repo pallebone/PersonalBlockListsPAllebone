@@ -260,10 +260,6 @@ https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-a
 
 https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt
 
-https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/antimalware_abp.txt
-
-https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADomains.txt
-
 https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-agh.txt
 
 https://malware-filter.gitlab.io/malware-filter/phishing-filter-agh.txt
@@ -285,6 +281,10 @@ https://raw.githubusercontent.com/systemjargon/filters/main/ads.txt
 https://raw.githubusercontent.com/systemjargon/filters/main/firebog-ticklist.txt
 
 https://raw.githubusercontent.com/systemjargon/filters/main/restrict-bypass.txt
+
+https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADhosts.txt
+
+https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/antimalware_abp_domainsonly.txt
 
 Total number of lists: 133 
 

@@ -188,8 +188,6 @@ https://raw.githubusercontent.com/danhorton7/pihole-block-tiktok/main/tiktok.txt
 
 https://hosts.tweedge.net/malicious.txt
 
-https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-
 https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt
 
 https://raw.githubusercontent.com/Spam404/lists/master/adblock-list.txt
@@ -264,7 +262,7 @@ https://orca.pet/notonmyshift/domains.txt
 
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
 
-Total number of lists: 122
+Total number of lists: 121
 
 ## Allowlist:
 

@@ -220,8 +220,6 @@ https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADhosts.txt
 
 https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/antimalware_abp_domainsonly.txt
 
-https://raw.githubusercontent.com/smed79/blacklist/master/hosts.txt
-
 https://blocklistproject.github.io/Lists/abuse.txt
 
 https://blocklistproject.github.io/Lists/ads.txt
@@ -262,7 +260,7 @@ https://orca.pet/notonmyshift/domains.txt
 
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
 
-Total number of lists: 121
+Total number of lists: 120
 
 ## Allowlist:
 

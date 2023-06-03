@@ -114,8 +114,6 @@ https://urlhaus.abuse.ch/downloads/hostfile/
 
 https://v.firebog.net/hosts/Prigent-Malware.txt
 
-https://raw.githubusercontent.com/HorusTeknoloji/TR-PhishingList/master/url-lists.txt
-
 https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
 
 https://raw.githubusercontent.com/sk-cat/fluffy-blocklist/main/domains
@@ -266,7 +264,7 @@ https://orca.pet/notonmyshift/domains.txt
 
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
 
-Total number of lists: 123 
+Total number of lists: 122
 
 ## Allowlist:
 

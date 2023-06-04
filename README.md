@@ -277,6 +277,13 @@ Copy this to clipboard.
 On pihole run command 'pihole -w -nr PastedListOfDomainsFromClipboard'
 
 PastedListOfDomainsFromClipboard is the list you copied to your clipboard. Allowlist now has all entries added.  
+
+Note: if users need to access google ads on google search you will need to unblock:
+adservice.google.ca	
+adservice.google.com	
+adservice.google.co.uk
+
+Note the addition of country specific TLD's if you are not from .com, .uk or .ca etc
  
 
 ## other stuff etc to be continued as I get time...sorry I have a day job.

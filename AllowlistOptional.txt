@@ -1206,7 +1206,6 @@ sdx.microsoft.com
 account.live.com
 onedriveclucproddm20007.blob.core.windows.net
 gspe35-ssl.ls.apple.com
-cf.iadsdk.apple.com
 gsp64-ssl.ls.apple.com
 gsp57-ssl-revgeo.ls.apple.com
 pancake.apple.com
@@ -1440,8 +1439,6 @@ autod.ha-autod.office.com
 stocks-edge.apple.com
 support.iam.ad.azure.com
 api-glb-bos.smoot.apple.com
-iadsdk.apple.com
-news.iadsdk.apple.com
 onedriveclucprodbn20001.blob.core.windows.net
 s-0004.s-msedge.net
 onedriveclucprodbn20002.blob.core.windows.net
@@ -1511,7 +1508,6 @@ mrrcountries.cdn.skype.com
 fandom.com
 firefox-settings-attachments.cdn.mozilla.net
 betanews.com
-ca.iadsdk.apple.com
 skypedataprdcolcus13.cloudapp.net
 onedriveclucprodbn20027.blob.core.windows.net
 dongknows.com
@@ -1520,8 +1516,6 @@ p35-fmf.icloud.com
 identity.apple.com
 p35-fmfmobile.icloud.com
 p35-fmip.icloud.com
-tr.iadsdk.apple.com
-ut.iadsdk.apple.com
 t.wayfair.ca
 captcha.px-cdn.net
 c.riskified.com

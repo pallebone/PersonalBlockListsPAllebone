@@ -1442,7 +1442,6 @@ api-glb-bos.smoot.apple.com
 onedriveclucprodbn20001.blob.core.windows.net
 s-0004.s-msedge.net
 onedriveclucprodbn20002.blob.core.windows.net
-weather-analytics-events.apple.com
 internalcheck.apple.com
 ukc-word-edit.officeapps.live.com
 ukc-excel.officeapps.live.com

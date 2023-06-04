@@ -226,8 +226,6 @@ https://blocklistproject.github.io/Lists/ads.txt
 
 https://blocklistproject.github.io/Lists/crypto.txt
 
-https://blocklistproject.github.io/Lists/drugs.txt
-
 https://blocklistproject.github.io/Lists/fraud.txt
 
 https://blocklistproject.github.io/Lists/gambling.txt
@@ -260,7 +258,7 @@ https://orca.pet/notonmyshift/domains.txt
 
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
 
-Total number of lists: 120
+Total number of lists: 119
 
 ## Allowlist:
 

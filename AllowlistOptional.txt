@@ -2324,7 +2324,6 @@ ticketmaster.com
 sdk.out.usbla.net
 noip.com
 pixel.tapad.com
-sessions.bugsnag.com
 discussions.apple.com
 businessinsider.com
 star.fallback.c10r.facebook.com

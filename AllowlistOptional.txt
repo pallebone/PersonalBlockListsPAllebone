@@ -2277,7 +2277,6 @@ outlook-1.cdn.office.net
 h-cibc.online-metrix.net
 m-profiling.cibc.com
 www.mediafire.com
-metrics.icloud.com
 7ba3f64df98de730df38846b54ecfbdf7f61f80f.cws.conviva.com
 cws-iad1.conviva.com
 cstat.cdn-apple.com

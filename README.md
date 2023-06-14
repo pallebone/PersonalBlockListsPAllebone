@@ -134,8 +134,6 @@ https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt
 
 https://raw.githubusercontent.com/dibdot/DoH-IP-blocklists/master/doh-domains.txt
 
-https://raw.githubusercontent.com/CleanMachine1/AdlistTXTS/main/list.txt
-
 https://raw.githubusercontent.com/cbuijs/accomplist/master/doh/plain.black.hosts.list
 
 https://raw.githubusercontent.com/cbuijs/accomplist/master/doh/optimized.black.domain.list
@@ -258,7 +256,7 @@ https://orca.pet/notonmyshift/domains.txt
 
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
 
-Total number of lists: 119
+Total number of lists: 118
 
 ## Allowlist:
 

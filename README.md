@@ -403,6 +403,10 @@ Allow out port 443:
 172.224.73.14,
 172.224.73.15
 
+443 Entire CDN netowrks I allow:
+17.0.0.0/8 Network is Apple AS714; 
+172.224.0.0/16 is Akamai CDN (also used by apple) AS36183
+
 Allow out port 123:
 69.1.1.251,
 129.250.35.250,

@@ -256,7 +256,9 @@ https://orca.pet/notonmyshift/domains.txt
 
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
 
-Total number of lists: 118
+https://raw.githubusercontent.com/jpgpi250/piholemanual/master/DOH/DOHadb.txt
+
+Total number of lists: 119
 
 ## Allowlist:
 

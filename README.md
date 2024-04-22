@@ -140,7 +140,7 @@ https://raw.githubusercontent.com/cbuijs/accomplist/master/doh/optimized.black.d
 
 https://raw.githubusercontent.com/cbuijs/accomplist/master/malicious-dom/plain.black.domain.list
 
-https://raw.githubusercontent.com/cbuijs/accomplist/master/doh/plain.black.top-n.domain.list
+https://raw.githubusercontent.com/cbuijs/accomplist/master/doh/plain.black.top-n.hosts.list
 
 https://www.stopforumspam.com/downloads/toxic_domains_whole.txt
 
@@ -246,8 +246,6 @@ https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/adguard.txt
 
 https://malware-filter.gitlab.io/malware-filter/phishing-filter-hosts.txt
 
-https://malware-filter.gitlab.io/malware-filter/pup-filter-hosts.txt
-
 https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-hosts.txt
 
 https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts
@@ -258,7 +256,7 @@ https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20vers
 
 https://raw.githubusercontent.com/jpgpi250/piholemanual/master/DOH/DOHadb.txt
 
-Total number of lists: 119
+Total number of lists: 118f
 
 ## Allowlist:
 

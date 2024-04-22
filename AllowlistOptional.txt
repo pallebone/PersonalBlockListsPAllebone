@@ -302,7 +302,6 @@ consumer.krxd.net
 173c5b05.akstat.io
 accounts.livechatinc.com
 vars.hotjar.com
-script.hotjar.com
 script-live-cf.hotjar.com
 t.contentsquare.net
 bat.bing.com

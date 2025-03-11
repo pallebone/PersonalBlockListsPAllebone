@@ -114,8 +114,6 @@ https://urlhaus.abuse.ch/downloads/hostfile/
 
 https://v.firebog.net/hosts/Prigent-Malware.txt
 
-https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
-
 https://raw.githubusercontent.com/sk-cat/fluffy-blocklist/main/domains
 
 https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
@@ -134,13 +132,9 @@ https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt
 
 https://raw.githubusercontent.com/dibdot/DoH-IP-blocklists/master/doh-domains.txt
 
-https://raw.githubusercontent.com/cbuijs/accomplist/master/doh/plain.black.hosts.list
-
 https://raw.githubusercontent.com/cbuijs/accomplist/master/doh/optimized.black.domain.list
 
 https://raw.githubusercontent.com/cbuijs/accomplist/master/malicious-dom/plain.black.domain.list
-
-https://raw.githubusercontent.com/cbuijs/accomplist/master/doh/plain.black.top-n.hosts.list
 
 https://www.stopforumspam.com/downloads/toxic_domains_whole.txt
 
@@ -250,13 +244,13 @@ https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-hosts.txt
 
 https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts
 
-https://orca.pet/notonmyshift/domains.txt
-
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
 
 https://raw.githubusercontent.com/jpgpi250/piholemanual/master/DOH/DOHadb.txt
 
-Total number of lists: 118f
+https://raw.githubusercontent.com/cbuijs/accomplist/refs/heads/main/doh/adblock.txt
+
+Total number of lists: 115
 
 ## Allowlist:
 

@@ -1,5 +1,7 @@
 # PersonalBlockListsPAllebone
 
+Edit March 2025: Fixed and removed some dead lists.
+
 Edit: June 2023 - Removed unmaintained lists, added new lists to replace, also replaced some lists with the new ABP format that pihole now supports as they are more powerful pattern matching vs older style domain only. Some lists have no ABP format so domain style still used for them. Only those that could be changed out for ABP versions of the same list were changed.
 Tested all work on a Pihole 4 with 2GB RAM to ensure that low end devices will work. RAM requirement seems to be most important part and the database is around 1GB so systems with less than 2GB might not work. For devices with less than 2GB you will have to remove some lists to reduce the size of the pihole database to be managable for the device eg: max 600-700MB if you only have 1GB RAM etc.
 

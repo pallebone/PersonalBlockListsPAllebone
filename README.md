@@ -1,5 +1,7 @@
 # PersonalBlockListsPAllebone
 
+Edit Oct 2025: Removed 2 lists
+
 Edit March 2025: Fixed and removed some dead lists.
 
 Edit: June 2023 - Removed unmaintained lists, added new lists to replace, also replaced some lists with the new ABP format that pihole now supports as they are more powerful pattern matching vs older style domain only. Some lists have no ABP format so domain style still used for them. Only those that could be changed out for ABP versions of the same list were changed.

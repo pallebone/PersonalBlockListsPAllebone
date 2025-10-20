@@ -134,8 +134,6 @@ https://raw.githubusercontent.com/neodevpro/neodevhost/master/adblocker
 
 https://raw.githubusercontent.com/stamparm/aux/master/maltrail-malware-domains.txt
 
-https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/adblock.txt
-
 https://gitlab.com/andryou/block/raw/master/kouhai-adblockplus
 
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt
@@ -168,9 +166,7 @@ https://raw.githubusercontent.com/jpgpi250/piholemanual/master/DOH/DOHadb.txt
 
 https://raw.githubusercontent.com/cbuijs/accomplist/refs/heads/main/doh/adblock.txt
 
-https://energized.pro/spark/adblock.txt
-
-Total number of lists: 74
+Total number of lists: 72
 
 ## Allowlist:
 

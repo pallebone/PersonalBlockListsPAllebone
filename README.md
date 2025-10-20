@@ -166,7 +166,7 @@ https://raw.githubusercontent.com/jpgpi250/piholemanual/master/DOH/DOHadb.txt
 
 https://raw.githubusercontent.com/cbuijs/accomplist/refs/heads/main/doh/adblock.txt
 
-Total number of lists: 72
+Total number of lists: 71
 
 ## Allowlist:
 

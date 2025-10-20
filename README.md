@@ -1,6 +1,6 @@
 # PersonalBlockListsPAllebone
 
-Edit Oct 2025: Removed 2 lists
+Edit Oct 2025: Removed 3 lists
 
 Edit March 2025: Fixed and removed some dead lists.
 
@@ -145,8 +145,6 @@ https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/doh.txt
 
 https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-domains.txt
-
-https://raw.githubusercontent.com/ghostnetic/adblock-filter-compiler/main/blocklist.txt
 
 https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADhosts.txt
 
